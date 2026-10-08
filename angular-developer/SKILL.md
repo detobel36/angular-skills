@@ -95,11 +95,9 @@ When formatting values in templates, creating custom pipes, or reusing pipe-like
 
 - **Pipes**: Built-in pipe imports, custom pipe naming and implementation, pure vs impure pipes, and TypeScript reuse patterns using standalone formatting functions or extracted plain functions. Read [pipes.md](references/pipes.md)
 
-## Angular Aria
+## DaisyUI
 
-When building accessible custom components for any of the following patterns: Accordion, Listbox, Combobox, Menu, Tabs, Toolbar, Tree, Grid, consult the following reference:
-
-- **Angular Aria Components**: Building headless, accessible components (Accordion, Listbox, Combobox, Menu, Tabs, Toolbar, Tree, Grid) and styling ARIA attributes. Read [angular-aria.md](references/angular-aria.md)
+When building accessible custom components check DaisyUI skills.
 
 ## Routing
 
